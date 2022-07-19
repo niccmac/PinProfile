@@ -1,9 +1,8 @@
 # Profile Nicole
 
 | Skills |
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="200" height="200" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100" height="100" />
 
-![JS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg =100x20)
 
 ![react](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg)
 
