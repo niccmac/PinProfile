@@ -1,7 +1,8 @@
 # Profile Nicole
 
-djgkjshfgljhs
-![JS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+| Skills |
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js />
 
 ![react](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg)
 
