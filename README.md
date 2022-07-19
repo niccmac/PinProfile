@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niccmac&label=Profile%20views&color=0e75b6&style=flat" alt="niccmac" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niccmac" alt="niccmac" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niccmac" alt="niccmac" /></a> </p> -->
 
 - 🔭 I’m currently working on [squareLife](https://github.com/niccmac/squareLife)
 
