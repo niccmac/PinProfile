@@ -5,9 +5,9 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niccmac" alt="niccmac" /></a> </p> -->
 
-- 🔭 I’m currently working on [squareLife](https://github.com/niccmac/squareLife)
+- 🔭 I’m currently working on [animations]([https://github.com/niccmac/animations])
 
-- 🌱 I’m currently learning **Figma**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **nicole.mac0404@gmail.com**
 
